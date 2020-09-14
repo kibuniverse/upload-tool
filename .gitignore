@@ -1,0 +1,4 @@
+node_modules/
+.npmignore
+index.js.map
+webpack.config.js

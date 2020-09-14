@@ -1,0 +1,1 @@
+{"version":3,"file":"Apiurl.js","sourceRoot":"","sources":["Apiurl.ts"],"names":[],"mappings":";;AAAA,IAAI,KAAK,GAAG,4BAA4B,CAAA;AAExC,IAAI,WAAW,GAAG;IACd,gBAAgB,EAAE,KAAK,GAAG,aAAa;IACvC,YAAY,EAAE,KAAK,GAAG,UAAU;IAChC,MAAM,EAAE,KAAK,GAAG,QAAQ;CAC3B,CAAA;AAED,kBAAe,WAAW,CAAA"}

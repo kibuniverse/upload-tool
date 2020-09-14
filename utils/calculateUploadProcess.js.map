@@ -1,0 +1,1 @@
+{"version":3,"file":"calculateUploadProcess.js","sourceRoot":"","sources":["calculateUploadProcess.ts"],"names":[],"mappings":";;AAEA,SAAwB,sBAAsB,CAAC,YAAoB,EAAE,cAA+B;IAChG,IAAI,MAAM,GAAG,YAAY,CAAA;IACzB,cAAc,CAAC,gBAAgB,CAAC,OAAO,CAAC,CAAC,IAAY,EAAE,EAAE;QACrD,MAAM,IAAI,IAAI,CAAA;IAClB,CAAC,CAAC,CAAA;IACF,OAAO,MAAM,GAAG,cAAc,CAAC,IAAI,CAAC,IAAI,CAAA;AAC5C,CAAC;AAND,yCAMC"}
